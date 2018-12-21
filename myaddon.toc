@@ -1,0 +1,6 @@
+## Interface: 70300
+## Title : My AddOn
+## Notes: This AddOn does nothing but display a frame with a button
+## Author: My Name
+MyAddOn.xml
+MyAddOn.lua
